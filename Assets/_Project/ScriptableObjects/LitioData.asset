@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3db660f6be1a5745b22d2a0702335b5, type: 3}
+  m_Name: LitioData
+  m_EditorClassIdentifier: Assembly-CSharp::CetemVR.MineralData
+  mineralName: "L\xEDtio"
+  chemicalSymbol: Li
+  categorySubtitle: "Baterias \u2022 Carros El\xE9tricos"
+  shortDescription: "O metal mais leve que existe! \xC9 o cora\xE7\xE3o das baterias
+    recarreg\xE1veis de celulares, notebooks e carros el\xE9tricos!"
+  mascotExplanationClip: {fileID: 8300000, guid: c7d1e72c428a51143a8726cd33ef71af, type: 3}
+  activationSfx: {fileID: 0}
+  applicationHologramPrefab: {fileID: 0}
+  highlightColor: {r: 0.25, g: 1, b: 0.2, a: 1}

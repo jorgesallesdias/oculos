@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3db660f6be1a5745b22d2a0702335b5, type: 3}
+  m_Name: NeodimioData
+  m_EditorClassIdentifier: Assembly-CSharp::CetemVR.MineralData
+  mineralName: "Neod\xEDmio"
+  chemicalSymbol: Nd
+  categorySubtitle: "Terras Raras \u2022 Super\xEDm\xE3s"
+  shortDescription: "Usado para criar super\xEDm\xE3s potentes que geram energia
+    limpa nas turbinas e\xF3licas e movem carros el\xE9tricos e fones de ouvido!"
+  mascotExplanationClip: {fileID: 8300000, guid: ae895fe821f37ba4383572486d0f3672, type: 3}
+  activationSfx: {fileID: 0}
+  applicationHologramPrefab: {fileID: 0}
+  highlightColor: {r: 0, g: 0.85, b: 1, a: 1}

@@ -1,0 +1,79 @@
+# ==========================================================
+# Unity .gitignore - Cápsula das Terras Raras (CETEM VR)
+# ==========================================================
+
+# Pastas geradas automaticamente pelo Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+*.log
+*.slnx
+
+# Configurações de Asset Meta (NUNCA ignorar .meta de Assets)
+!/[Aa]ssets/**/*.meta
+
+# Plugins de terceiros específicos ou cache do Addressables / XR
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Visual Studio / Rider / VS Code / JetBrains
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos temporários de símbolos e cache
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds para Meta Quest 2 (Android APK / AAB / OBB)
+*.apk
+*.aab
+*.obb
+*.symbols.zip
+*.aab.meta
+*.apk.meta
+
+# Relatórios de Crash e Profiling
+sysinfo.txt
+*.stacktrace
+*.tracedata
+*.perf
+
+# Arquivos de Sistema Operacional (Windows / macOS / Linux)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
